@@ -8,6 +8,7 @@
   * Improve the "Delete file" GUI (can still click on other buttons, not clear that there is now text to click on)
   * Make it so the screen darkens appropriately during Calypso battle
   * Make Barvinoid not suck ass
+  * Make it so you can't use other items while invisible, hovering, or small.
 
 ### Sounds To Add ###
   * Barvinoid floating eye count-down beeps
